@@ -34,3 +34,7 @@ you do not need to set up any software on your computer.  For more intensive edi
 make your work more productive but wait until you have a need for that.
 
 
+## Tutorials
+
+* [How to Download Video from Facebook](FacebookDownload)
+* [How to Upload to YouTube](YouTubeUpload)
